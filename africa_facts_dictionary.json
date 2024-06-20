@@ -1,0 +1,626 @@
+[
+    {
+        "question": "What is the largest country by area in Africa?",
+        "answer": [
+            "Algeria"
+        ]
+    },
+    {
+        "question": "How many countries are in Africa?",
+        "answer": [
+            "54"
+        ]
+    },
+    {
+        "question": "Which continent is the second largest in the world?",
+        "answer": [
+            "Africa"
+        ]
+    },
+    {
+        "question": "What is the most populous country in Africa?",
+        "answer": [
+            "Nigeria"
+        ]
+    },
+    {
+        "question": "What is the longest river in Africa?",
+        "answer": [
+            "The Nile River", "River Nile", "The Nile", "Nile"
+        ]
+    },
+    {
+        "question": "Which desert is the largest hot desert in the world?",
+        "answer": [
+            "The Sahara Desert", "Sahara Desert", "The Sahara", "Sahara"
+        ]
+    },
+    {
+        "question": "What is the capital city of Egypt?",
+        "answer": [
+            "Cairo"
+        ]
+    },
+    {
+        "question": "Which African country is known for its pyramids?",
+        "answer": [
+            "Egypt"
+        ]
+    },
+    {
+        "question": "What is the official language of Nigeria?",
+        "answer": [
+            "English"
+        ]
+    },
+    {
+        "question": "What mountain is the highest in Africa?",
+        "answer": [
+            "Mount Kilimanjaro", "Kilimanjaro"
+        ]
+    },
+    {
+        "question": "Which country is famous for its wildlife safaris?",
+        "answer": [
+            "Kenya"
+        ]
+    },
+    {
+        "question": "Which African country was formerly known as Abyssinia?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the administrative capital city of South Africa?",
+        "answer": [
+            "Pretoria"
+        ]
+    },
+    {
+        "question": "What is the legislative capital city of South Africa?",
+        "answer": [
+            "Cape Town"
+        ]
+    },
+    {
+        "question": "How many capital cities does South Africa has?",
+        "answer": [
+            "3", "Three"
+        ]
+    },
+    {
+        "question": "Which African island nation is located in the Indian Ocean?",
+        "answer": [
+            "Madagascar"
+        ]
+    },
+    {
+        "question": "What is the main religion in North Africa?",
+        "answer": [
+            "Islam"
+        ]
+    },
+    {
+        "question": "What is the official language of Egypt?",
+        "answer": [
+            "Arabic"
+        ]
+    },
+    {
+        "question": "Which African country is known as the 'Land of a Thousand Hills'?",
+        "answer": [
+            "Rwanda"
+        ]
+    },
+    {
+        "question": "What currency is used in South Africa?",
+        "answer": [
+            "South African Rand", "Rand"
+        ]
+    },
+    {
+        "question": "Which African lake is the world's second-largest freshwater lake by surface area?",
+        "answer": [
+            "Lake Victoria"
+        ]
+    },
+    {
+        "question": "What is the official language of Kenya?",
+        "answer": [
+            "English", "Swahili"
+        ]
+    },
+    {
+        "question": "Which African country is known for its ancient rock-hewn churches?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Nigeria?",
+        "answer": [
+            "Abuja"
+        ]
+    },
+    {
+        "question": "Which country has the highest population density in Africa?",
+        "answer": [
+            "Rwanda"
+        ]
+    },
+    {
+        "question": "What is the official language of Senegal?",
+        "answer": [
+            "French"
+        ]
+    },
+    {
+        "question": "Which African river flows through Zambia and Zimbabwe?",
+        "answer": [
+            "The Zambezi River", "Zambezi River", "The Zambezi", "Zambezi"
+        ]
+    },
+    {
+        "question": "What is the capital city of Ghana?",
+        "answer": [
+            "Accra"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Great Sphinx and the pyramids of Giza?",
+        "answer": [
+            "Egypt"
+        ]
+    },
+    {
+        "question": "What is the largest city in South Africa?",
+        "answer": [
+            "Johannesburg"
+        ]
+    },
+    {
+        "question": "Which African country is the world's leading producer of cocoa?",
+        "answer": [
+            "Ivory Coast"
+        ]
+    },
+    {
+        "question": "What is the official language of Algeria?",
+        "answer": [
+            "Arabic", "Berber", "Arabic and Berber"
+        ]
+    },
+    {
+        "question": "Which African country is famous for its Maasai Mara National Reserve?",
+        "answer": [
+            "Kenya"
+        ]
+    },
+    {
+        "question": "What is the capital city of Ethiopia?",
+        "answer": [
+            "Addis Ababa"
+        ]
+    },
+    {
+        "question": "Which African country is known for its diamond mines?",
+        "answer": [
+            "Botswana"
+        ]
+    },
+    {
+        "question": "What is the main religion in Ethiopia?",
+        "answer": [
+            "Christianity"
+        ]
+    },
+    {
+        "question": "What is the capital city of Tanzania?",
+        "answer": [
+            "Dodoma"
+        ]
+    },
+    {
+        "question": "Which African country was the first to gain independence from colonial rule?",
+        "answer": [
+            "Ghana"
+        ]
+    },
+    {
+        "question": "What is the capital city of Kenya?",
+        "answer": [
+            "Nairobi"
+        ]
+    },
+    {
+        "question": "Which African country is known for its historic trading city of Timbuktu?",
+        "answer": [
+            "Mali"
+        ]
+    },
+    {
+        "question": "What is the official language of Morocco?",
+        "answer": [
+            "Arabic", "Berber", "Arabic and Berber"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Serengeti National Park?",
+        "answer": [
+            "Tanzania"
+        ]
+    },
+    {
+        "question": "What is the capital city of Morocco?",
+        "answer": [
+            "Rabat"
+        ]
+    },
+    {
+        "question": "Which African country is the leading producer of platinum?",
+        "answer": [
+            "South Africa"
+        ]
+    },
+    {
+        "question": "What is the official language of Ghana?",
+        "answer": [
+            "English"
+        ]
+    },
+    {
+        "question": "Which African country is known for the ancient city of Carthage?",
+        "answer": [
+            "Tunisia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Zimbabwe?",
+        "answer": [
+            "Harare"
+        ]
+    },
+    {
+        "question": "Which African country is the largest oil producer?",
+        "answer": [
+            "Nigeria"
+        ]
+    },
+    {
+        "question": "What is the official language of Tunisia?",
+        "answer": [
+            "Arabic"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Namib Desert?",
+        "answer": [
+            "Namibia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Uganda?",
+        "answer": [
+            "Kampala"
+        ]
+    },
+    {
+        "question": "Which African country has the largest rainforest?",
+        "answer": [
+            "Democratic Republic of the Congo", "DR Congo"
+        ]
+    },
+    {
+        "question": "What is the official language of Angola?",
+        "answer": [
+            "Portuguese"
+        ]
+    },
+    {
+        "question": "Which African country is known for Victoria Falls?",
+        "answer": [
+            "Zimbabwe", "Zambia", "Zimbabwe and Zambia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Cameroon?",
+        "answer": [
+            "Yaounde"
+        ]
+    },
+    {
+        "question": "Which African country is the second most populous?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the official language of Mozambique?",
+        "answer": [
+            "Portuguese"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Drakensberg Mountains?",
+        "answer": [
+            "South Africa"
+        ]
+    },
+    {
+        "question": "What is the capital city of Senegal?",
+        "answer": [
+            "Dakar"
+        ]
+    },
+    {
+        "question": "Which African country is known for its lemurs?",
+        "answer": [
+            "Madagascar"
+        ]
+    },
+    {
+        "question": "What is the official language of Ivory Coast?",
+        "answer": [
+            "French"
+        ]
+    },
+    {
+        "question": "Which African country is known for the ancient ruins of Great Zimbabwe?",
+        "answer": [
+            "Zimbabwe"
+        ]
+    },
+    {
+        "question": "What is the capital city of Sudan?",
+        "answer": [
+            "Khartoum"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Okavango Delta?",
+        "answer": [
+            "Botswana"
+        ]
+    },
+    {
+        "question": "What is the official language of Botswana?",
+        "answer": [
+            "English", "Setswana", "English and Setswana"
+        ]
+    },
+    {
+        "question": "Which African country is known for its ancient city of Axum dating back to 4th century B.C?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Somalia?",
+        "answer": [
+            "Mogadishu"
+        ]
+    },
+    {
+        "question": "Which African country is the leading producer of gold?",
+        "answer": [
+            "South Africa"
+        ]
+    },
+    {
+        "question": "What is the official language of Mauritania?",
+        "answer": [
+            "Arabic"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Atlas Mountains?",
+        "answer": [
+            "Morocco"
+        ]
+    },
+    {
+        "question": "What is the capital city of Libya?",
+        "answer": [
+            "Tripoli"
+        ]
+    },
+    {
+        "question": "Which African country is the largest producer of diamonds?",
+        "answer": [
+            "Botswana"
+        ]
+    },
+    {
+        "question": "What is the official language of Zambia?",
+        "answer": [
+            "English"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Virunga National Park?",
+        "answer": [
+            "Democratic Republic of the Congo", "DR Congo"
+        ]
+    },
+    {
+        "question": "What is the capital city of Burkina Faso?",
+        "answer": [
+            "Ouagadougou"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Great Rift Valley?",
+        "answer": [
+            "Kenya", "Ethiopia", "Kenya and Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the official language of Malawi?",
+        "answer": [
+            "English", "Chichewa", "English and Chichewa"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Table Mountain?",
+        "answer": [
+            "South Africa"
+        ]
+    },
+    {
+        "question": "What is the capital city of Namibia?",
+        "answer": [
+            "Windhoek"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Skeleton Coast?",
+        "answer": [
+            "Namibia"
+        ]
+    },
+    {
+        "question": "What is the official language of the Democratic Republic of the Congo?",
+        "answer": [
+            "French"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Masai Mara Reserve?",
+        "answer": [
+            "Kenya"
+        ]
+    },
+    {
+        "question": "What is the capital city of Sierra Leone?",
+        "answer": [
+            "Freetown"
+        ]
+    },
+    {
+        "question": "Which African country is known for the Danakil Depression?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the official language of Lesotho?",
+        "answer": [
+            "English", "Sesotho", "English and Sesotho"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Mount Elgon?",
+        "answer": [
+            "Kenya", "Uganda", "Kenya and Uganda"
+        ]
+    },
+    {
+        "question": "What is the capital city of Mali?",
+        "answer": [
+            "Bamako"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Ngorongoro Crater?",
+        "answer": [
+            "Tanzania"
+        ]
+    },
+    {
+        "question": "What is the official language of Chad?",
+        "answer": [
+            "Arabic", "French", "Arabic and French"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Fouta Djallon highlands?",
+        "answer": [
+            "Guinea"
+        ]
+    },
+    {
+        "question": "What is the capital city of Liberia?",
+        "answer": [
+            "Monrovia"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Dogon Country?",
+        "answer": [
+            "Mali"
+        ]
+    },
+    {
+        "question": "What is the official language of Eswatini (Swaziland)?",
+        "answer": [
+            "Swazi", "English", "Swazi and English"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Blyde River Canyon?",
+        "answer": [
+            "South Africa"
+        ]
+    },
+    {
+        "question": "What is the capital city of Mozambique?",
+        "answer": [
+            "Maputo"
+        ]
+    },
+    {
+        "question": "Which African country is known for the ancient city of Leptis Magna?",
+        "answer": [
+            "Libya"
+        ]
+    },
+    {
+        "question": "What is the official language of Burundi?",
+        "answer": [
+            "Kirundi", "French", "English"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Fish River Canyon?",
+        "answer": [
+            "Namibia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Niger?",
+        "answer": [
+            "Niamey"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Mount Cameroon?",
+        "answer": [
+            "Cameroon"
+        ]
+    },
+    {
+        "question": "What is the official language of Cape Verde?",
+        "answer": [
+            "Portuguese"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Aksum Obelisks?",
+        "answer": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "question": "What is the capital city of Gambia?",
+        "answer": [
+            "Banjul"
+        ]
+    },
+    {
+        "question": "Which African country is known for its Simien Mountains?",
+        "answer": [
+            "Ethiopia"
+        ]
+    }
+]
